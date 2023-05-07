@@ -1,0 +1,4 @@
+#Sun May 07 22:42:18 IST 2023
+base.0=/Users/vishaljoshi/Documents/GitHub/Plie/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
